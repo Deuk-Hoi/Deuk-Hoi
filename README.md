@@ -4,6 +4,10 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
+  
+  <div>
+	 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+</div>
 <!--
 **Deuk-Hoi/Deuk-Hoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
