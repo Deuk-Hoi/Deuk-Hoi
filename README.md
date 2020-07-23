@@ -3,14 +3,16 @@ Welcome to Deuk's Github Blog!!!
 <p>I like <b>object-oriented</b> programming. And I like programming <b>Android.</b></p>
 <p>My goal is to become an <b>IOT developer.</b> Thank you!</p>
 <br>
+
 ## Stack
--Android Programming
--Node.js
--C#
--Python
--JavaScript & HTML
--Swift(IOS)
--Arduino
+
+- Android Programming
+- Node.js
+- C#
+- Python
+- JavaScript & HTML
+- Swift(IOS)
+- Arduino
 
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeuk-Hoi%2Fhit-counter)](https://hits.seeyoufarm.com)
