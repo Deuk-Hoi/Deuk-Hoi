@@ -1,5 +1,7 @@
-## emotional programmer Deuk
-
+## Emotional Programmer Deuk
+Welcome to Deuk's Github Blog
+I like <b>object-oriented</b> programming. 
+And I like programming <b>Android</b>.
 <p>
   
 </p>
