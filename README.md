@@ -1,10 +1,8 @@
 ## Emotional Programmer Deuk
-Welcome to Deuk's Github Blog
-I like <b>object-oriented</b> programming. 
-And I like programming <b>Android</b>.
-<p>
-  
-</p>
+Welcome to Deuk's Github Blog!!!
+<p>I like <b>object-oriented</b> programming.</p>
+<p>And I like programming <b>Android</b>.</p>
+
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeuk-Hoi%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Deuk-Hoi)](https://github.com/anuraghazra/github-readme-stats) -->
