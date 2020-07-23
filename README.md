@@ -6,7 +6,7 @@
   </div>
   
   <div>
-	 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 **Deuk-Hoi/Deuk-Hoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
