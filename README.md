@@ -11,9 +11,12 @@ Welcome to Deuk's Github Blog!!!
 - JavaScript & HTML
 - Swift(IOS)
 - Arduino
+
 <div align=right>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeuk-Hoi%2Fhit-counter)](https://hits.seeyoufarm.com)
-</div>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeuk-Hoi%2Fhit-counter)](https://hits.seeyoufarm.com) 
+	
+  </div>
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Deuk-Hoi)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
