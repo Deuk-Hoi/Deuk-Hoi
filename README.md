@@ -5,11 +5,13 @@ Welcome to Deuk's Github Blog!!!
 
 ## Stack
 - Android Programming
+- Java
+- Kotlin
+- Swift(IOS)
 - Node.js
 - C#
 - Python
 - JavaScript & HTML
-- Swift(IOS)
 - Arduino
 
 <div align=right>
