@@ -1,7 +1,7 @@
 ## Emotional Programmer Deuk
 Welcome to Deuk's Github Blog!!!
 <p>I like <b>object-oriented</b> programming. And I like programming <b>Android.</b></p>
-<p>My goal is to become an <b>IOT developer.</b> Thank you!</p>
+<p>My goal is to become an <b>Android developer.</b> Thank you!</p>
 
 ## Stack
 - Android Programming
