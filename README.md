@@ -1,14 +1,8 @@
-<div style="display: flex">
-  <div style="margin-right: 20px">
+<img align ="right" style="margin-top:350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deuk-Hoi&layout=compact&hide=html,css"/>
   <h4>Kim Deuk Hoi (Hodu Deuk)</h4>
-  <p style="font-size:15px">안녕하세요 감성프로그래머 김득회 입니다.</p>
-  <p style="font-size:15px">객체지향 프로그램에 관심이 있고</p>
-  <p style="font-size:15px">현재는 스프링으로 웹서버 API 서버 구축을 담당하고 있습니다.</p>
-  </div>
-  <div>
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deuk-Hoi&layout=compact&hide=html,css"/>
-  </div>
-</div>
+  <div style="font-size: 15px; margin-bottom:10px">안녕하세요 감성프로그래머 김득회 입니다.</div>
+  <div style="font-size: 15px; margin-bottom:10px">객체지향 프로그램에 관심이 있고</div>
+  <div style="font-size: 15px; margin-bottom:10px">현재는 스프링으로 웹 API 서버 구축을 담당하고 있습니다.</div>
 
 ***
 
