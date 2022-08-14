@@ -1,4 +1,4 @@
-<img align ="right" style="margin-top:350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deuk-Hoi&layout=compact&hide=html,css"/>
+<img align ="right" width=32% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deuk-Hoi&layout=compact&hide=html,css"/>
   <h4>Kim Deuk Hoi (Hodu Deuk)</h4>
   <div style="font-size: 15px; margin-bottom:10px">안녕하세요 감성프로그래머 김득회 입니다.</div>
   <div style="font-size: 15px; margin-bottom:10px">객체지향 프로그램에 관심이 있고</div>
