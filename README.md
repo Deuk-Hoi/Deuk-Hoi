@@ -1,37 +1,38 @@
-## Emotional Programmer Deuk
-Welcome to Deuk's Github Blog!!!
-<p>I like <b>object-oriented</b> programming. And I like programming <b>Android.</b></p>
-<p>My goal is to become an <b>Android developer.</b> Thank you!</p>
-
-## Stack
-- Android Programming
-- Java
-- Kotlin
-- Swift(IOS)
-- Node.js
-- C#
-- Python
-- JavaScript & HTML
-- Arduino
-
-<div align=right>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeuk-Hoi%2Fhit-counter)](https://hits.seeyoufarm.com) 
-	
+<div style="display: flex">
+  <div style="margin-right: 20px">
+  <h4>Kim Deuk Hoi (Hodu Deuk)</h4>
+  <p style="font-size:15px">안녕하세요 감성프로그래머 김득회 입니다.</p>
+  <p style="font-size:15px">객체지향 프로그램에 관심이 있고</p>
+  <p style="font-size:15px">현재는 스프링으로 웹서버 API 서버 구축을 담당하고 있습니다.</p>
   </div>
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Deuk-Hoi)](https://github.com/anuraghazra/github-readme-stats) -->
+  <div>
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deuk-Hoi&layout=compact&hide=html,css"/>
+  </div>
+</div>
 
-<!--
-**Deuk-Hoi/Deuk-Hoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+<h4>Skills</h4>
+<div style="display: flex">
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white"/>
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Contacts</h4>
+<div style="display: flex">
+  <a href="https://velog.io/@dh97k">
+    <img style="margin-right: 5px" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+  </a>
+  <a href="https://blog.naver.com/dh97k">
+    <img style="margin-right: 5px" src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
+    <a>
+    <img href="dh97ks@gmail.com"style="margin-right: 5px" src="https://img.shields.io/badge/dh97ks@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</div>
